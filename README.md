@@ -21,14 +21,6 @@ I am a Full-Stack Developer  With a solid foundation in data structures and algo
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saurabh-code-dev&show_icons=true&theme=radical)
 
-- **Public Repositories:** 16
-- **Followers:** 1
-- **Following:** 0
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saurabh-code-dev&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
 
 
 
