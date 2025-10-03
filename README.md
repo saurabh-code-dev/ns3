@@ -12,7 +12,19 @@ I am a Full-Stack Developer  With a solid foundation in data structures and algo
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ## Top Projects
+[![**Foodie-Hunter**](https://github-readme-stats.vercel.app/api/pin/?username=saurabh-code-dev&repo=Foodie-Hunter&theme=dark)](https://github.com/saurabh-code-dev/Foodie-Hunter)
+[![**Password-generator**](https://github-readme-stats.vercel.app/api/pin/?username=saurabh-code-dev&repo=Password-generator&theme=dark)](https://github.com/saurabh-code-dev/Password-generator)
+[![**Backend-Project**](https://github-readme-stats.vercel.app/api/pin/?username=saurabh-code-dev&repo=Backend-Project&theme=dark)](https://github.com/saurabh-code-dev/Backend-Project)
+[![**Shopping-trends**](https://github-readme-stats.vercel.app/api/pin/?username=saurabh-code-dev&repo=Shopping-trends&theme=dark)](https://github.com/saurabh-code-dev/Shopping-trends)
+[![**Portfolio**](https://github-readme-stats.vercel.app/api/pin/?username=saurabh-code-dev&repo=Portfolio&theme=dark)](https://github.com/saurabh-code-dev/Portfolio)
 
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saurabh-code-dev&show_icons=true&theme=radical)
+
+- **Public Repositories:** 16
+- **Followers:** 1
+- **Following:** 0
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saurabh-code-dev&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
@@ -42,6 +54,15 @@ I currently do not have any blog posts, but I plan to share my learnings and exp
 
 ## Connect with Me
 
-<a href="https://www.linkedin.com/in/saurabh023/" target="_blank" rel="noopener noreferrer"><Icon /> Linkedin</a> | <a href="https://x.com/Saurabhsingh609" target="_blank" rel="noopener noreferrer"><Icon /> Twitter</a> | <a href="https://www.instagram.com/sau.rabhthakur23?igsh=amY5aDJmOGJyNGI1" target="_blank" rel="noopener noreferrer"><Icon /> Instagram</a>
-
+<div align="left">
+  <a href="https://www.youtube.com/@built-with-saurabh" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <a href="https://www.instagram.com/sau.rabhthakur23?igsh=amY5aDJmOGJyNGI1" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/saurabh023/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
